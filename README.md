@@ -21,3 +21,4 @@ A ready to use React webpack boilerplate.
     "webpack-dev-server": "^3.1.9"  
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
+# react-mention-component
